@@ -1,0 +1,5 @@
+adv=1212
+adg=1215
+adddd=1216
+addc=1217
+addd=1100
